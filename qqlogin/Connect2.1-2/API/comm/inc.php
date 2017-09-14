@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101402369","appkey":"072baa0459521c2ce19e5e8cdaa5c448","callback":"http://www.quhuaibin.com/login.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
